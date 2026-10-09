@@ -174,11 +174,12 @@
             "active": true,
             "expiry": 9999999999
         },
-        "SLOT_01": {
-            "hwid": "SLOT_01_HWID_HERE",
+        "dssdss245ed-9471-7085-92eb": {
+            "hwid": "dss245ed1c7b389d1ae9e88096a1353d3",
             "created_at": "2025-01-01T00:00:00",
             "active": true,
-            "expiry": 9999999999
+            "expiry": 9999999999,
+            "slot": 1
         }
     }
 }
