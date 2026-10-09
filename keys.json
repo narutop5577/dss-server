@@ -1,0 +1,185 @@
+{
+    "keys": {
+        "dssdss245ed-9471-7085-92eb": {
+            "hwid": "dss245ed1c7b389d1ae9e88096a1353d3",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999,
+            "slot": 1
+        },
+        "SLOT_02": {
+            "hwid": "SLOT_02_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_03": {
+            "hwid": "SLOT_03_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_04": {
+            "hwid": "SLOT_04_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_05": {
+            "hwid": "SLOT_05_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_06": {
+            "hwid": "SLOT_06_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_07": {
+            "hwid": "SLOT_07_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_08": {
+            "hwid": "SLOT_08_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_09": {
+            "hwid": "SLOT_09_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_10": {
+            "hwid": "SLOT_10_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_11": {
+            "hwid": "SLOT_11_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_12": {
+            "hwid": "SLOT_12_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_13": {
+            "hwid": "SLOT_13_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_14": {
+            "hwid": "SLOT_14_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_15": {
+            "hwid": "SLOT_15_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_16": {
+            "hwid": "SLOT_16_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_17": {
+            "hwid": "SLOT_17_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_18": {
+            "hwid": "SLOT_18_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_19": {
+            "hwid": "SLOT_19_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_20": {
+            "hwid": "SLOT_20_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_21": {
+            "hwid": "SLOT_21_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_22": {
+            "hwid": "SLOT_22_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_23": {
+            "hwid": "SLOT_23_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_24": {
+            "hwid": "SLOT_24_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_25": {
+            "hwid": "SLOT_25_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_26": {
+            "hwid": "SLOT_26_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_27": {
+            "hwid": "SLOT_27_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_28": {
+            "hwid": "SLOT_28_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_29": {
+            "hwid": "SLOT_29_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        },
+        "SLOT_30": {
+            "hwid": "SLOT_30_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
+        }
+    }
+}
