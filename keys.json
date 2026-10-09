@@ -1,11 +1,5 @@
 {
     "keys": {
-        "SLOT_02": {
-            "hwid": "SLOT_02_HWID_HERE",
-            "created_at": "2025-01-01T00:00:00",
-            "active": true,
-            "expiry": 9999999999
-        },
         "SLOT_03": {
             "hwid": "SLOT_03_HWID_HERE",
             "created_at": "2025-01-01T00:00:00",
@@ -180,6 +174,13 @@
             "active": true,
             "expiry": 9999999999,
             "slot": 1
+        },
+        "dssdss8bc66-1045-3554-f5a6": {
+            "hwid": "dss8bc66a2dd38d6127ed34d73e5a3fad",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999,
+            "slot": 2
         }
     }
 }
