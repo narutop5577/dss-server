@@ -156,13 +156,6 @@
             "active": true,
             "expiry": 9999999999
         },
-        "dssdss70fb0-5487-5405-1f73": {
-            "hwid": "dss70fb090e82bd272f90ed1e2f14a3cc",
-            "created_at": "2025-01-01T00:00:00",
-            "active": true,
-            "expiry": 9999999999,
-            "slot": 1
-        },
         "dssdssdf80b-1649-2638-f8f7": {
             "hwid": "dssdf80bdc8dd649ab97b403e59e7e318",
             "created_at": "2025-01-01T00:00:00",
@@ -183,6 +176,12 @@
             "active": true,
             "expiry": 9999999999,
             "slot": 4
+        },
+        "SLOT_01": {
+            "hwid": "SLOT_01_HWID_HERE",
+            "created_at": "2025-01-01T00:00:00",
+            "active": true,
+            "expiry": 9999999999
         }
     }
 }
